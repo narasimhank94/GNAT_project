@@ -1,4 +1,8 @@
 *.exe
 *.ali
 *.o
-obj/
+*.stderr
+*.stdout
+*.log
+*.bin
+
