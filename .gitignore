@@ -5,4 +5,4 @@
 *.stdout
 *.log
 *.bin
-
+obj/
