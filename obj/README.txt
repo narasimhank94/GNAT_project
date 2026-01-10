@@ -1,0 +1,1 @@
+This file is just to have an obj folder as git does not allow empty folders in git repo
